@@ -14,9 +14,3 @@ Hello,我是姚乾坤 以前的公司搬砖工，现在的程序搬砖工，努�
 
 > 近期打算新点技能树: `c++` `算法` `nginx`
 
-##### Talks
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
