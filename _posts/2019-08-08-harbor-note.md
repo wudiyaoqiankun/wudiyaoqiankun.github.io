@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Harbor 部署笔记"
+title: "Harbor 部署小笔记"
 subtitle: '使用 docker 部署 Harbor'
-author: "Yao"
-header-style: text
+author: "Yao Qiankun"
+header-img: "img/post-bg-unix-linux.jpg"
+header-img-credit: "@WebdesignerDepot"
+header-img-credit-href: "medium.com/@WebdesignerDepot/poll-should-css-become-more-like-a-programming-language-c74eb26a4270"
+header-mask: 0.4
 tags:
-  - Vim
+  - docker
 ---
 
 Update:最终我终于摸到了 Harbor 的皮毛
