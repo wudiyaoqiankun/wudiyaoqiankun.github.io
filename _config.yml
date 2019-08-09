@@ -4,19 +4,17 @@ SEOTitle: 姚乾坤的博客 | Yao Blog
 header-img: img/home-bg.jpg
 email: willowhaja3020@gmail.com
 description: "博客初体验"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "还没申请下来"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "工地搬砖工, 互联网搬砖工, Python, Linux, 算法菜鸟"
+url: "www.yaoqiankun.cn"              # your host, for absolute URL
+baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username:     wudiyaoqiankun
-zhihu_username:     wudiyaoqiankun
+zhihu_username:     yao-gan-kun-25-19/activities
 github_username:    wudiyaoqiankun
-twitter_username:   wudiyaoqiankun
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -60,7 +58,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: yao
 
 # Netease settings
 netease_comment: false
@@ -103,38 +101,14 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+#    {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    }
+#        title: "乱序",
+#        href: "http://mida.re/"
+#    },{
+#        title: "前端外刊评论",
+#        href: "http://qianduan.guru/"
+#    },
 ]
