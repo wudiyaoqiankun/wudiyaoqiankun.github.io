@@ -169,9 +169,4 @@ project_creation_restriction = everyone
 &emsp;&emsp;从Harbor拉取镜像执行命令：
 
 ```docker pull 39.97.185.26/test/IMAGE[:TAG]```
-
-
-
-
-
-
+<br>
