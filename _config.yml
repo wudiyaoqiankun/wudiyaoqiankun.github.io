@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: willowhaja3020@gmail.com
 description: "博客初体验"
 keyword: "工地搬砖工, 互联网搬砖工, Python, Linux, 算法菜鸟"
-url: "www.yaoqiankun.cn"              # your host, for absolute URL
-baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: ""              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -58,7 +58,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: yao
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
