@@ -107,8 +107,8 @@ friends: [
     # },{
 #        title: "乱序",
 #        href: "http://mida.re/"
-#    },{
-#        title: "前端外刊评论",
-#        href: "http://qianduan.guru/"
-#    },
+    {
+        title: "大佬",
+        href: "https://ldsink.com/"
+    },
 ]
