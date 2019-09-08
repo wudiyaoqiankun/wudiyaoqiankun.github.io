@@ -1,0 +1,10 @@
+Configuration file: /root/wudiyaoqiankun.github.io/_config.yml
+[33m       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.[0m
+            Source: /root/wudiyaoqiankun.github.io
+       Destination: /root/wudiyaoqiankun.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.517 seconds.
+ Auto-regeneration: enabled for '/root/wudiyaoqiankun.github.io'
+    Server address: http://127.0.0.1:5001/
+  Server running... press ctrl-c to stop.
